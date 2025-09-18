@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @torischerle
-- 👀 I’m interested in Natural Health Product interactions with the body
-- 🌱 I’m currently learning how to use code for data analysis and Contact Mode Scoring
+- 👋 Hi, I’m Tori (@torischerle)
+- 👀 I’m a PhD Candidate interested in naturally derived compounds to inform novel drug discovery & design
+- 🌱 I specialize in Molecular Docking (AutoDock Vina) and analysis (PyMol & ML)
+- 👩🏼‍🏫 Science Education & Active Learning
 
 <!---
 torischerle/torischerle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

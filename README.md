@@ -8,7 +8,7 @@ I’m Tori Scherle and I am currently finishing my PhD (Biology) at the Universi
 - 🌱 I build management systems for small businesses in highly regulated industries (Cannabis & Pharma)
 - 💻 Passionate about using tech to streamline day to day operations & automate tasks
 
-Coding Languages: Python, HTML & CSS, Google Appscript /n
+Coding Languages: Python, HTML & CSS, Google Appscript  
 Environments: PyCharm, VS Code, Google Colab
 
 NB: Several repositotires are currently private until corresponding articles are published. 

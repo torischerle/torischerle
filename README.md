@@ -1,4 +1,5 @@
 👋 Hi/Bonjour,
+
 I’m Tori Scherle and I am currently finishing my PhD (Biology) at the University of Ottawa. My reseach areas include structural biology, medicinal chemistry, cell biology, biochemsitry & bio/cheminformatics. 
  
 👀 Main research: Naturally derived compounds to inform novel drug discovery & design

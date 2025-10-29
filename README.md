@@ -25,8 +25,6 @@ Environments: PyCharm, VS Code, Google Colab
 <a href="https://www.leetcode.com/torischerle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="torischerle" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=torischerle&show_icons=true&locale=en&layout=compact" alt="torischerle" /></p>
-
 NB: Several repositotires are currently private until corresponding articles are published.  
 Please contact to discuss further!  
 

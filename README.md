@@ -23,6 +23,8 @@ Environments: PyCharm, VS Code, Google Colab
 <a href="https://codepen.io/torischerle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="torischerle" height="30" width="40" /></a>
 <a href="https://kaggle.com/torischerle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="torischerle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/torischerle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="torischerle" height="30" width="40" /></a>
+ <a href="https://www.w3profile.com/ToriScherle/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="torischerle" height="30" width="40" /></a>
+</p>
 </p>
 
 NB: Several repositotires are currently private until corresponding articles are published.  

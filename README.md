@@ -10,8 +10,8 @@ I’m Tori Scherle and I am currently finishing my PhD (Biology) at the Universi
 
 <h3 align="left">Languages and Tools:</h3>
 
+<img width="430" height="75" alt="TS GitHub" src="https://github.com/user-attachments/assets/a47c8da9-3793-408c-b26a-cbcd103db4cd" />
 Environments: VS Code, Google Colab, PyCharm
-<p align="left"> <a href="https://github.com/torischerle" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1XE_pMV9kZlebbkxNxgIY8ENGj8-M6ckf/view?usp=sharing" alt="Python, SkiKitLearn, Pandas, Seaborn, Git" width="430" height="75"/> </a> 
 
 NB: Several repositotires are currently private until corresponding articles are published.  
 Please contact to discuss further!  

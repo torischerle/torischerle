@@ -1,6 +1,6 @@
 👋 Hi/Bonjour,
 
-I’m Tori Scherle and I am currently finishing my PhD (Biology) at the University of Ottawa and I'm the CEO of Harbour Pharmaceuticals. My reseach areas include structural biology, medicinal chemistry, cell biology, biochemsitry & bio/cheminformatics. 
+I’m Tori Scherle and I am currently finishing my PhD (Biology) at the University of Ottawa and I'm the CEO of Harbour Pharmaceuticals. My reseach areas include structural biology, medicinal chemistry, cell biology, biochemistry & bio/cheminformatics. 
  
 - 👀 Main research: Naturally derived compounds to inform novel drug discovery & design
 - 🧬 I specialize in Molecular Docking & Visualization (PyRx, AutoDock Vina, PyMol & Spartan Chemistry), QSAR & ADME analysis (Machine Learning)
